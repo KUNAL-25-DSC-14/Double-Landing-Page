@@ -5,7 +5,7 @@ The page is divided into two sections, and each section expands smoothly when ho
 
 🚀 Live Demo
 
-👉 View Project:
+👉 View Project: https://kunal-25-dsc-14.github.io/Double-Landing-Page/
 
 
 🛠️ Technologies Used
